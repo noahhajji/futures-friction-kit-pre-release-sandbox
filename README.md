@@ -10,6 +10,8 @@ The kit was developed by the Copenhagen Institute for Futures Studies and the Da
 - **Skill**: for Claude and other AI tools that read skills.
 - **Manual**: for any AI assistant with projects and file upload.
 
+If your AI tool works in a folder on your computer, such as Claude Code, install the skill, also when that folder is an Obsidian vault. It is the only setup in which the assistant can save what it learns about your organisation, and `reindex.py`, the script that keeps those files listed, comes with it. The files on this page are the same kit laid open, for reading and for the manual route.
+
 ### Skill
 
 1. On this page open the `installation-options` folder and download `futures-friction-kit-skill.zip`.
@@ -53,8 +55,7 @@ installation-options/      the same kit, packaged
 
 graph/                     the kit drawn as a graph
 ├── graph.html             the interactive page: download it and open it in a browser
-├── graph.png              the still shown below
-└── viewer-licence.md      the licence of the viewer that draws the page
+└── graph.png              the still shown below
 
 README.md                  this page
 LICENCE.txt                what you may do with the kit

@@ -35,8 +35,8 @@ Reports, extracts and interview material have their own terms. Copy or share
 that material only as permitted by its licence, the rights holder or the law.
 
 The graph page published with the kit is drawn with Google's reference viewer
-for the Open Knowledge Format, used under the Apache License 2.0. That
-licence is in the same folder as the page.
+for the Open Knowledge Format, used under the Apache License 2.0. The full
+text of that licence is at https://www.apache.org/licenses/LICENSE-2.0
 
 
 No warranty
