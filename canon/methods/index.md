@@ -1,0 +1,26 @@
+# Methods
+
+- [Backcasting](/canon/methods/backcasting.md): when the person has a scenario, vision or target future and needs to work out the steps back to today, and which of them lie within the organisation's control.
+- [Causal layered analysis](/canon/methods/causal-layered-analysis.md): when an issue is being read only at the surface and the person needs to uncover the systemic causes, assumptions and worldviews beneath it, or build a new narrative from them.
+- [Cross-impact analysis](/canon/methods/cross-impact-analysis.md): when the person has a list of drivers and needs to see how they act on one another, which shape the whole system, or whether a scenario's logic holds together.
+- [Delphi method](/canon/methods/delphi-method.md): when a question about the future needs structured expert judgement, showing where experts converge, where they diverge and where genuine uncertainty remains.
+- [Driver mapping](/canon/methods/driver-mapping.md): when the person has gathered signals or trends and needs to sort them into the underlying drivers of change and judge which matter most.
+- [Enablers and blockers](/canon/methods/enablers-and-blockers.md): when someone is taking a trend at face value and needs to understand the forces that speed it up or hold it back, and where it might shift or break.
+- [Five Whys](/canon/methods/five-whys.md): when an explanation of a product stops at because this is how the product works, or a problem's causes need following back with evidence.
+- [Futures SWOT-TOWS](/canon/methods/futures-swot-tows.md): when the person has a scenario in hand and needs to turn its opportunities and threats, set against today's strengths and weaknesses, into concrete strategic initiatives.
+- [Futures triangle](/canon/methods/futures-triangle.md): when the person needs a quick, shared map of what is pushing change, what is pulling towards particular futures and what history holds back, before naming the issues that matter.
+- [Futures wheel](/canon/methods/futures-wheel.md): when the person needs to think through the knock-on effects of a change, development, scenario or strategy, including second-order and counterintuitive consequences.
+- [Horizon and environmental scanning](/canon/methods/horizon-and-environmental-scanning.md): when the person needs to look beyond what is on their radar for early signals and driving forces in the wider environment, or to set up ongoing monitoring of change.
+- [Organisational memory and contextual reuse](/canon/methods/organisational-memory-and-contextual-reuse.md): when someone says we tried that already, nobody knows why an earlier attempt was shelved, or an idea is about to be built that someone has probably built before.
+- [Pace layers](/canon/methods/pace-layers.md): when the person needs to tell fast-moving change from slow, foundational change in a system and see how the layers pull on each other.
+- [Pre-mortem](/canon/methods/premortem.md): when a plan is concrete enough to brief but not yet locked in, and the team needs to surface the reasons it could fail, including doubts no one has voiced.
+- [Reimagine](/canon/methods/reimagine.md): when incremental improvement keeps returning the team to the same design, or a future condition changes who needs the service, how it is encountered or what creates trust.
+- [Scenario development](/canon/methods/scenario-development.md): when the organisation needs a set of contrasting plausible futures to challenge its assumptions and stress-test strategy, or someone asks how to build scenarios.
+- [Scenario immersion](/canon/methods/scenario-immersion.md): when scenarios exist and the person needs to work out what one future would mean for users, the competitive landscape and the organisation's strategic direction.
+- [Signposting](/canon/methods/signposting.md): when the person needs to know which future is arriving and when to act, by defining indicators and trigger thresholds to monitor after foresight work.
+- [The Ma brief](/canon/methods/the-ma-brief.md): when a team wants to try a story that acts on one continuing issue and needs to settle its limits before any feature list, code or prompt is written.
+- [The Seven Provocations](/canon/methods/the-seven-provocations.md): when a plan or outlook rests on unexamined assumptions about the future and the person needs a light way to surface, flip and play them out.
+- [Three horizons](/canon/methods/three-horizons.md): when the person needs to see how today's dominant way of working may decline as a transformed one rises, and what is transitional between them.
+- [Uncertainties assessment](/canon/methods/uncertainties-assessment.md): when the person has a set of drivers or future issues and needs to know which are high impact and genuinely uncertain, the critical uncertainties to plan for.
+- [Visioning (preferred future)](/canon/methods/visioning.md): when a team needs to agree on a shared preferred future and the challenges, enablers and actions that lead towards it.
+- [Wind-tunnelling](/canon/methods/wind-tunnelling.md): when the person has strategic options or initiatives and needs to test them across scenarios to find no-regret moves, contingent options and big bets.

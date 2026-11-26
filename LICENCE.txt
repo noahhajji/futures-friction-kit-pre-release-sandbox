@@ -1,0 +1,43 @@
+Futures Friction Kit licence
+
+© 2026 Copenhagen Institute for Futures Studies (CIFS) for its original
+material.
+
+CIFS developed the Futures Friction Kit as part of AI Medialab Denmark, a
+collaboration with the Danish School of Media and Journalism (DMJX) funded by
+the Google News Initiative.
+
+
+Use, adapt and share
+
+The original assistant instructions and any other files explicitly marked as
+covered by this notice are licensed under Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+The full text of that licence is at
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+The licence gives you permission to use and adapt those files. You can tailor
+the assistant to your team, add your organisation's own material and share
+the covered files or your adaptations free of charge.
+
+When sharing, credit the Futures Friction Kit, CIFS and any named
+contributors. Keep the existing notices and the licence link, and say what
+you changed.
+
+
+What needs permission
+
+Selling the kit, the assistant instructions or an adapted version, or
+charging for access to any of them, requires prior written permission from
+CIFS.
+
+Reports, extracts and interview material have their own terms. Copy or share
+that material only as permitted by its licence, the rights holder or the law.
+
+
+No warranty
+
+The kit is a free prototype provided as is, without warranties to the extent
+permitted by law. CIFS does not guarantee ongoing support.
+
+For questions or permission, email h3ailab@cifs.dk.

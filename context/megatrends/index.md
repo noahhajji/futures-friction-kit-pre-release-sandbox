@@ -1,0 +1,13 @@
+# Megatrends
+
+- [The biotech revolution](/context/megatrends/biotech-revolution.md): when a plan for health, science, food or climate coverage assumes those fields, their audiences and their controversies over access and ethics will stay as they are today.
+- [Concentration of wealth](/context/megatrends/concentration-of-wealth.md): when a plan depends on platform owners, wealthy patrons or philanthropic funders, or assumes a broad middle-class audience able and willing to pay for news.
+- [The constrained economy](/context/megatrends/constrained-economy.md): when a business case assumes advertising, subscription or public funding will grow with the economy, or that cheap capital and a steady supply of staff will carry it.
+- [The green transition](/context/megatrends/green-transition.md): when a plan touches climate coverage, energy and infrastructure costs, or advertisers and audiences whose behaviour and regulation the move off fossil fuels will change.
+- [Health beyond the clinic](/context/megatrends/health-beyond-the-clinic.md): when a plan for health, wellbeing or service journalism assumes audiences rely on clinicians, not on managing chronic conditions themselves with apps, wearables and AI.
+- [Individualised everyday life](/context/megatrends/individualised-everyday-life.md): when a plan assumes a shared household audience, a mass front page or stable life-stage segments, while people live alone, defer family life and look for community.
+- [Inversion of the population pyramid](/context/megatrends/inversion-of-the-population-pyramid.md): when a plan assumes today's age mix of audience, subscribers or staff will hold, or treats loyal older readers and missing young ones as a temporary imbalance.
+- [The new face of urbanisation](/context/megatrends/new-face-of-urbanisation.md): when a plan for international, regional or local coverage, or for growth markets, assumes cities and their audiences will grow the way earlier urban waves did.
+- [Power through networks](/context/megatrends/power-through-networks.md): when a plan depends on cloud, platform or AI infrastructure owned by a few foreign companies, or treats that dependency as a neutral technical choice.
+- [The rise of embedded AI](/context/megatrends/rise-of-embedded-ai.md): when a plan treats AI as a tool to adopt, not as infrastructure that will mediate how audiences find information and how newsroom work and expertise are valued.
+- [Shifting world order](/context/megatrends/shifting-world-order.md): when a plan for foreign coverage, international partnerships or technology suppliers assumes a stable rules-based order and settled alliances.
