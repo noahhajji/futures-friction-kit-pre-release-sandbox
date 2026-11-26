@@ -20,8 +20,8 @@ The kit was developed by the Copenhagen Institute for Futures Studies and the Da
 
 1. On this page choose **Code**, then **Download ZIP**, and unzip it.
 2. Create a project in your AI assistant.
-3. Open the `bundle` folder. Copy all the text of `AGENTS.md` and paste it into the project's instructions. It tells the assistant what to read and when, and an uploaded file is only read when the assistant goes looking for it.
-4. Upload everything else in the `bundle` folder: `persona.md`, `index.md` and the folders `canon` and `context`.
+3. Copy all the text of `AGENTS.md` and paste it into the project's instructions. It tells the assistant what to read and when, and an uploaded file is only read when the assistant goes looking for it.
+4. Upload `persona.md`, `index.md` and the folders `canon` and `context`. The rest of the download, this README and the folders `graph` and `installation-options`, is for you and not for the assistant.
 5. Describe a decision you face.
 
 If your assistant limits how many files you can upload, download `futures-friction-kit-lite.zip` from the `installation-options` folder instead: paste `instructions.md` and upload `persona.md`, `canon.md` and `context.md`.
@@ -30,25 +30,21 @@ The logic of your AI system might change. If a step does not match, ask your AI.
 
 ## What is in the kit
 
-The kit is a folder of plain text files in the Open Knowledge Format, and every one of them can be opened and read in the `bundle` folder on this page. It is arranged so that an AI opens only what a question needs: every folder has an index with one line for each file, and every file begins with a short header that says what kind of knowledge it holds, the claim it makes, when it helps and what it rests on.
+The kit is a folder of plain text files in the Open Knowledge Format, and every one of them can be opened and read on this page. It is arranged so that an AI opens only what a question needs: every folder has an index with one line for each file, and every file begins with a short header that says what kind of knowledge it holds, the claim it makes, when it helps and what it rests on.
 
 ```text
-README.md                  this page
-LICENCE.txt                what you may do with the kit
-
-bundle/                    the kit itself
-├── AGENTS.md              what the assistant reads first: what to open, and when
-├── persona.md             who the assistant is and how it works
-├── index.md               the map of everything below
-├── canon/                 how CIFS thinks
-│   ├── principles/
-│   ├── methods/
-│   └── concepts/
-└── context/               what the world and the sector look like
-    ├── megatrends/
-    ├── signals/
-    ├── sector/            what media organisations told us in interviews
-    └── organisation/      empty, reserved for an organisation's own files
+AGENTS.md                  what the assistant reads first: what to open, and when
+persona.md                 who the assistant is and how it works
+index.md                   the map of everything below
+canon/                     how CIFS thinks
+├── principles/
+├── methods/
+└── concepts/
+context/                   what the world and the sector look like
+├── megatrends/
+├── signals/
+├── sector/                what media organisations told us in interviews
+└── organisation/          empty, reserved for an organisation's own files
 
 installation-options/      the same kit, packaged
 ├── futures-friction-kit-skill.zip   as a skill; also holds reindex.py, the kit's one script,
@@ -59,9 +55,10 @@ graph/                     the kit drawn as a graph
 ├── graph.html             the interactive page: download it and open it in a browser
 ├── graph.png              the still shown below
 └── viewer-licence.md      the licence of the viewer that draws the page
-```
 
-The links inside the kit start from the `bundle` folder, which is how the assistant reads them, so they do not open on this page. Browse the folders instead.
+README.md                  this page
+LICENCE.txt                what you may do with the kit
+```
 
 ### Explore the kit as a graph
 
