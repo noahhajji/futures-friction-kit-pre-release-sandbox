@@ -33,6 +33,9 @@ The logic of your AI system might change. If a step does not match, ask your AI.
 The kit is a folder of plain text files in the Open Knowledge Format, and every one of them can be opened and read in the `bundle` folder on this page. It is arranged so that an AI opens only what a question needs: every folder has an index with one line for each file, and every file begins with a short header that says what kind of knowledge it holds, the claim it makes, when it helps and what it rests on.
 
 ```text
+README.md                  this page
+LICENCE.txt                what you may do with the kit
+
 bundle/                    the kit itself
 ├── AGENTS.md              what the assistant reads first: what to open, and when
 ├── persona.md             who the assistant is and how it works
@@ -48,25 +51,32 @@ bundle/                    the kit itself
     └── organisation/      empty, reserved for an organisation's own files
 
 installation-options/      the same kit, packaged
-├── futures-friction-kit-skill.zip   as a skill
+├── futures-friction-kit-skill.zip   as a skill; also holds reindex.py, the kit's one script,
+│                                    which rebuilds the index of your organisation's files
 └── futures-friction-kit-lite.zip    in three files, for assistants that limit uploads
+
+graph/                     the kit drawn as a graph
+├── graph.html             the interactive page: download it and open it in a browser
+├── graph.png              the still shown below
+└── viewer-licence.md      the licence of the viewer that draws the page
 ```
 
 The links inside the kit start from the `bundle` folder, which is how the assistant reads them, so they do not open on this page. Browse the folders instead.
 
-### The kit as a graph
+### Explore the kit as a graph
 
-<img src="graph/graph.png" alt="The kit drawn as a graph: a dot for every file and a line for every link between two files" align="right" width="46%">
+<img src="graph/graph.png" alt="The graph page: the kit drawn as a dot for every file and a line for every link, with a search field, a type filter, six views, and buttons to zoom and to pause the turning" align="right" width="46%">
 
-A kit this size is hard to picture as a list of files, so here it is as a map. Every dot is a file, and every line is one file leading to or resting on another. The blue dots are the files the assistant finds its way by. Everything else is what it knows.
+`graph.html`, in the `graph` folder, is the whole kit as one interactive graph: some 140 files, with every relationship between them drawn as a line. It shows how the kit is built, and it lets you read any file exactly as your assistant will read it, before you hand the kit over.
 
-The picture is a still, and the real thing moves. `graph.html`, in the `graph` folder, is the whole kit on one page that you can turn, zoom and search. Point at a dot to see what it is linked to. Click it and the file opens beside the graph, so you read exactly what your assistant will read, before you hand it over.
+- **Nodes** are files. The blue ones are the routing layer the assistant navigates by: `AGENTS.md`, `persona.md` and the indexes. The dark ones are the knowledge they lead to.
+- **Lines** are the relationships the kit declares: an index listing a file, or a file naming another under `depends_on` in its header because it rests on it.
+- **Views**: the page opens in 3D, with `canon` and `context` on opposite sides and each folder clustered around its index. Switch to Force, Concentric, Tree, Circle or Grid to lay the same graph out flat.
+- **Controls**: drag to turn, scroll to zoom, search for a file or filter by type. Hover over a node to light up what it is linked to. Click it and the file opens beside the graph.
 
-To try it, download `graph.html` and open it in your browser. It needs an internet connection and nothing installed.
+To start exploring, download `graph.html` and open it in your browser. A good first move is to search for a method you know and follow its lines to the concepts it rests on. There is nothing to install; the page needs an internet connection for the libraries it loads.
 
 <br clear="right">
-
-The graph page is drawn with Google's reference viewer for the Open Knowledge Format, used under the Apache License 2.0. Its licence is in the same folder.
 
 ## Add your organisation's own context
 
