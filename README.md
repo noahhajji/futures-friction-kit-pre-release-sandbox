@@ -1,6 +1,6 @@
 # Futures Friction Kit
 
-Most AI tools are built to remove friction: a question goes in and an answer comes out. The Futures Friction Kit adds friction on purpose. It is a free knowledge kit that turns the AI assistant a media organisation already uses into a thinking partner for its innovation work, one that pauses before it answers. When someone brings it a plan or an idea, the assistant first helps them find the assumption about the future that the idea depends on, and then tests the idea against the different futures that could follow. It never says which future will arrive, and it leaves the ideas and the writing to the people whose decision it is.
+Most AI tools are built to remove friction: a question goes in and an answer comes out. The Futures Friction Kit adds friction on purpose. It is a free knowledge kit that turns the AI assistant a media organisation already uses into a thinking partner for its innovation work, one that pauses before it answers. It draws on the foresight methodology of the Copenhagen Institute for Futures Studies (CIFS) and on other expert knowledge of media and technology. When someone brings it a plan or an idea, the assistant first helps them find the assumption about the future that the idea depends on, and then tests the idea against the different futures that could follow. It never says which future will arrive, and it leaves the ideas and the writing to the people whose decision it is.
 
 The kit was developed by the Copenhagen Institute for Futures Studies and the Danish School of Media and Journalism in AI Medialab Denmark, together with Danish media organisations and experts from the media and tech industry, and funded by the Google News Initiative.
 
@@ -54,9 +54,19 @@ installation-options/      the same kit, packaged
 
 The links inside the kit start from the `bundle` folder, which is how the assistant reads them, so they do not open on this page. Browse the folders instead.
 
-<img src="images/graph.png" alt="The kit drawn as a graph" width="620">
+### The kit as a graph
 
-Every dot is a file, and every line is one file leading to or resting on another. The blue dots are the files the assistant finds its way by.
+<img src="graph/graph.png" alt="The kit drawn as a graph: a dot for every file and a line for every link between two files" align="right" width="46%">
+
+A kit this size is hard to picture as a list of files, so here it is as a map. Every dot is a file, and every line is one file leading to or resting on another. The blue dots are the files the assistant finds its way by. Everything else is what it knows.
+
+The picture is a still, and the real thing moves. `graph.html`, in the `graph` folder, is the whole kit on one page that you can turn, zoom and search. Point at a dot to see what it is linked to. Click it and the file opens beside the graph, so you read exactly what your assistant will read, before you hand it over.
+
+To try it, download `graph.html` and open it in your browser. It needs an internet connection and nothing installed.
+
+<br clear="right">
+
+The graph page is drawn with Google's reference viewer for the Open Knowledge Format, used under the Apache License 2.0. Its licence is in the same folder.
 
 ## Add your organisation's own context
 
